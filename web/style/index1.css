@@ -1,0 +1,30 @@
+.index {
+    background-image:url(../image/background2.jpg);
+
+}
+
+.index2 {
+    background-image:url(../image/background3.jpg);
+
+}
+
+.jugador{
+   
+
+}
+
+.equipo{
+    background-image: url(../image/background.jpg);
+}
+
+
+h1{
+    text-align: center;
+    background-color:#FAF3D0;
+    padding-bottom:2px;
+}
+
+.boton{
+    margin-bottom: 5px;
+}
+
