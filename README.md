@@ -7,3 +7,5 @@ Estas son las dos tablas que utilizo. Una tabla jugadores, donde se encontraran 
 
 ## 2. Página principal(Listado jugadores)
 Esta es mi página principal ya que he decidido no hacer log-in.
+![Index](https://user-images.githubusercontent.com/91873618/155367277-fd17f2fe-1c9d-4286-a571-5c9710cde7a0.jpg)
+
